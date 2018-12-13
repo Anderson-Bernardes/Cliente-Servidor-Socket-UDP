@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+b4a5847fa18f373c405fa782d788bbd6 CMakeFiles/cliente_autogen
+dca7a8fe1758f0eb61ef8cc6df05359d CMakeFiles/server_autogen
+14a666e631669e67178c0222107976be ui_mainwindow.h

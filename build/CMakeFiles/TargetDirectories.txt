@@ -1,0 +1,6 @@
+/home/anderson/Área de Trabalho/Trabalho final Lab Redes/build/CMakeFiles/edit_cache.dir
+/home/anderson/Área de Trabalho/Trabalho final Lab Redes/build/CMakeFiles/rebuild_cache.dir
+/home/anderson/Área de Trabalho/Trabalho final Lab Redes/build/CMakeFiles/cliente.dir
+/home/anderson/Área de Trabalho/Trabalho final Lab Redes/build/CMakeFiles/server.dir
+/home/anderson/Área de Trabalho/Trabalho final Lab Redes/build/CMakeFiles/cliente_autogen.dir
+/home/anderson/Área de Trabalho/Trabalho final Lab Redes/build/CMakeFiles/server_autogen.dir

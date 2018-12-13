@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/cliente.dir/main.cpp.o CMakeFiles/cliente.dir/mainwindow.cpp.o CMakeFiles/cliente.dir/cliente_autogen/mocs_compilation.cpp.o  -o cliente /usr/lib/x86_64-linux-gnu/libQtGui.so /usr/lib/x86_64-linux-gnu/libQtCore.so 
